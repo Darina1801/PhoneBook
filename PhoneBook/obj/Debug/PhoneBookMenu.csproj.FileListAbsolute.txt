@@ -1,0 +1,7 @@
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookMenu.csprojAssemblyReference.cache
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookMenu.csproj.CoreCompileInputs.cache
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Darina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
